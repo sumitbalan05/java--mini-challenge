@@ -2,13 +2,14 @@
 
 This project is a console-based ATM Machine simulation built using Java and Object-Oriented Programming principles.
 
-## Features
-- PIN verification with 3 attempts
-- Balance enquiry
-- Cash deposit & withdrawal
-- Forgot PIN with OTP validation
-- Menu-driven interface
-- Exit option
+# FoodorderingSystem Simulation (Java-OOPS)
+
+This project is a console-based foodorderingSystem simulation build using Java and Object-Oriented Programming priciples.
+
+# OnlineShopping Simulation (Java-OOPS)
+
+This project is a console-based Onlineshopping simulation build using Java and Object-oriented Programming principles.
+
 
 ## OOPS Concepts Used
 - Interface
@@ -25,7 +26,7 @@ This project is a console-based ATM Machine simulation built using Java and Obje
 ## How to Run
 1. Clone the repository
 2. Compile all `.java` files
-3. Run `ATM.java`
+3. Run `file name`
 
 ## Note
 This project is for learning and demonstration purposes only.
